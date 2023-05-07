@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Ecommerce Upgrad Backend
 
 Application and environment were related to this app includes:
  - Java [https://www.oracle.com/cis/java/technologies/downloads/#java20]
