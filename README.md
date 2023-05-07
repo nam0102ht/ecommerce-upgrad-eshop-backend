@@ -34,5 +34,5 @@ For window:
 "firstName": "Admin",
 "lastName": "Upgrad",
 "contactNumber": "0939123456",
-"role": ["ADMIN"]
+"role": ["admin"]
 }'`
