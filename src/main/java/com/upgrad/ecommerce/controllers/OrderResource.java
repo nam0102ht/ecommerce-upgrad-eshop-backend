@@ -15,7 +15,7 @@ import java.util.List;
 
 @CrossOrigin(origins = "*", maxAge = 3600)
 @RestController
-@RequestMapping(value = "/api/", produces = MediaType.APPLICATION_JSON_VALUE)
+@RequestMapping(value = "/api/orders", produces = MediaType.APPLICATION_JSON_VALUE)
 public class OrderResource {
 
     private final OrderService orderService;
