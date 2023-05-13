@@ -25,6 +25,8 @@ For window:
 
 ### Sign up the admin
 
+Run curl command in your cmd when starting the project complete
+
 `curl --location 'http://localhost:8080/api/auth/signup' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJyYWRhbjIubmd1eWVuQG5hYi5jb20uYXUiLCJpYXQiOjE2ODMxMTIxOTIsImV4cCI6MTY4MzEyMDU5Mn0.dUDzqOw2shQwqeY0JtJS7uyJEDVPMLiX4Ktso-H5lSJRq8lTY77DN337LIhexz5cyt1e6UODA4i-IBip9KHOWQ' \
