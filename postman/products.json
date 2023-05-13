@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "645f63c02d70567678269742"
+  },
+  "name": "SHOE",
+  "category": "FOOTWEAR",
+  "price": 2000,
+  "description": "This product is made from Nilke",
+  "manufacturer": "NIKE",
+  "availableItems": 1000,
+  "imageUrl": "https://sneakerdaily.vn/wp-content/uploads/2022/06/Giay-Louis-Vuitton-x-Nike-Air-Force-1-Low-By-Virgil-Abloh-%E2%80%98White-Green.jpg.webp",
+  "version": 0,
+  "_class": "com.upgrad.ecommerce.models.Product"
+},{
+  "_id": {
+    "$oid": "645f63d9751f3e87bba8e4bb"
+  },
+  "name": "SHOE",
+  "category": "FOOTWEAR",
+  "price": 2000,
+  "description": "This product is made from Nilke",
+  "manufacturer": "NIKE",
+  "availableItems": 1000,
+  "imageUrl": "https://sneakerdaily.vn/wp-content/uploads/2022/06/Giay-Louis-Vuitton-x-Nike-Air-Force-1-Low-By-Virgil-Abloh-%E2%80%98White-Green.jpg.webp",
+  "version": 0,
+  "_class": "com.upgrad.ecommerce.models.Product"
+},{
+  "_id": {
+    "$oid": "645f63db751f3e87bba8e4bc"
+  },
+  "name": "SHOE",
+  "category": "FOOTWEAR",
+  "price": 2000,
+  "description": "This product is made from Nilke",
+  "manufacturer": "NIKE",
+  "availableItems": 1000,
+  "imageUrl": "https://sneakerdaily.vn/wp-content/uploads/2022/06/Giay-Louis-Vuitton-x-Nike-Air-Force-1-Low-By-Virgil-Abloh-%E2%80%98White-Green.jpg.webp",
+  "version": 0,
+  "_class": "com.upgrad.ecommerce.models.Product"
+},{
+  "_id": {
+    "$oid": "645f63dd751f3e87bba8e4bd"
+  },
+  "name": "SHOE",
+  "category": "FOOTWEAR",
+  "price": 2000,
+  "description": "This product is made from Nilke",
+  "manufacturer": "NIKE",
+  "availableItems": 1000,
+  "imageUrl": "https://sneakerdaily.vn/wp-content/uploads/2022/06/Giay-Louis-Vuitton-x-Nike-Air-Force-1-Low-By-Virgil-Abloh-%E2%80%98White-Green.jpg.webp",
+  "version": 0,
+  "_class": "com.upgrad.ecommerce.models.Product"
+}]
