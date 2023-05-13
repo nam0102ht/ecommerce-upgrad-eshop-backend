@@ -30,3 +30,5 @@ Run curl command in your cmd when starting the project complete
 `curl --location 'http://localhost:8080/api/auth/signup' \
 --header 'Content-Type: application/json' \
 --data-raw '{ "email": "admin@upgrad.com", "password": "Admin@123", "firstName": "Admin", "lastName": "Upgrad", "contactNumber": "0939123456", "role": ["admin"] }'`
+
+Or use postman at (here)[https://github.com/nam0102ht/ecommerce-upgrad-eshop-backend/tree/develop/postman]
