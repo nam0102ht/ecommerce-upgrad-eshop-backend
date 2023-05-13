@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "35f75604-941c-434f-bd45-6247b1f694b0",
+		"name": "upgrad",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9719621"
+	},
+	"item": [
+		{
+			"name": "register admin",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \"email\": \"admin@upgrad.com\", \"password\": \"Admin@123\", \"firstName\": \"Admin\", \"lastName\": \"Upgrad\", \"contactNumber\": \"0939123456\", \"role\": [\"admin\"] }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/auth/signup",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"auth",
+						"signup"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
