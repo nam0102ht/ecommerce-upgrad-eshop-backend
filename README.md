@@ -32,3 +32,5 @@ Run curl command in your cmd when starting the project complete
 --data-raw '{ "email": "admin@upgrad.com", "password": "Admin@123", "firstName": "Admin", "lastName": "Upgrad", "contactNumber": "0939123456", "role": ["admin"] }'`
 
 #### Or Sign up the admin by postman at [here](https://github.com/nam0102ht/ecommerce-upgrad-eshop-backend/tree/develop/postman)
+
+### Add the products by the way import [data](https://github.com/nam0102ht/ecommerce-upgrad-eshop-backend/blob/develop/postman/products.json) [by the way](https://studio3t.com/knowledge-base/articles/mongodb-import-json-csv-bson/) 
